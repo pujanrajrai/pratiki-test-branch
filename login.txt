@@ -1,0 +1,4 @@
+take all input field
+check if username and password match
+if username and password matched then login 
+else username or password doesnot match
